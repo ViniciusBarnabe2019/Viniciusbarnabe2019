@@ -2,13 +2,13 @@
 
 - 🔭 Atualmente Sou Professor, Programador e Dono da Terabyte Center!  ...
 
-<div>
+<div style="float: left;">
   <a href="https://github.com/ViniciusBarnabe2019"></a> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusBarnabe2019&show_icons=true&icon_color=6d4ee9&title_color=6d4ee9&locale=pt-br&theme=dark&bg_color=000&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBarnabe2019&layout=compact&langs_count=7&title_color=6d4ee9&locale=pt-br&bg_color=000&theme=dark"/>
 </div>
   <br />
-<div style="display: inline_block">
+<div style="display: inline_block; float: left;">
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
