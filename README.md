@@ -1,6 +1,6 @@
 # Fala Devs!
 
-- 🔭 Atualmente Sou Professor, Programador e Dono da Terabyte Center!  ...
+- 🔭 Atualmente Sou Professor, Técnico em Informática, Programador e Dono da Terabyte Center!  ...
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/ViniciusBarnabe2019"></a> 
